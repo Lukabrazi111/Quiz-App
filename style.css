@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -9,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .quiz-container {
@@ -47,7 +50,7 @@ button {
   background-color: #8e44ad;
   display: block;
   width: 100%;
-  padding: 1.3rem ;
+  padding: 1.3rem;
   color: #fff;
   font-family: inherit;
   border: none;
@@ -59,4 +62,3 @@ button {
 button:hover {
   background-color: #7f3b9c;
 }
-

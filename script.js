@@ -1,13 +1,12 @@
 const quizData = [
   {
-    question: "How old is Florin?",
-    a: "10",
-    b: "17",
-    c: "26",
-    d: "110",
-    correct: "c",
+    question: "Who is the President of US?",
+    a: "Florin Pop",
+    b: "Donald Trump",
+    c: "Ivan Saldano",
+    d: "Mihai Andrei",
+    correct: "b",
   },
-
   {
     question: "What is the most used programming language in 2019?",
     a: "Java",
@@ -17,12 +16,12 @@ const quizData = [
     correct: "d",
   },
   {
-    question: "Who is the President of US?",
-    a: "Florin Pop",
-    b: "Donald Trump",
-    c: "Ivan Saldano",
-    d: "Mihai Andrei",
-    correct: "b",
+    question: "How old is Luka",
+    a: "10",
+    b: "17",
+    c: "21",
+    d: "110",
+    correct: "c",
   },
   {
     question: "What does HTML stand for?",
